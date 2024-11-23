@@ -1,4 +1,3 @@
-import { UploadFileInfo } from "naive-ui";
 
 // 定义视频项的接口
 export interface VideoItem {
